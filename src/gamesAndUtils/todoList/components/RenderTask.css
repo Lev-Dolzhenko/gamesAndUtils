@@ -1,0 +1,44 @@
+.list_item_checkbox:checked + .list_item_title {
+  text-decoration: line-through;
+  color: #808080;
+}
+
+.counters__wrapper_all p {
+  color: #4ea8de;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.counters__wrapper_all p span {
+  color: #d9d9d9;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+
+  background-color: #4b4b4b;
+  padding: 2px 8px;
+  border-radius: 999px;
+}
+
+.counters__wrapper_solved p {
+  color: #8284FA;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.counters__wrapper_solved p span {
+  color: #d9d9d9;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+
+  background-color: #4b4b4b;
+  padding: 2px 8px;
+  border-radius: 999px;
+}
