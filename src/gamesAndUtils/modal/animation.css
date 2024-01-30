@@ -1,0 +1,13 @@
+.animated {
+    opacity: 0;
+    visibility: hidden;
+    /* transform: translateY(-55%); */
+
+    transition: all 0.2s linear;
+}
+
+.animated.open {
+    opacity: 1;
+    visibility: visible;
+    /* transform: translateY(-5%); */
+}

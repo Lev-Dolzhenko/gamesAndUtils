@@ -20,9 +20,11 @@ export default {
         "colorText": "#F2F2F2",
         "colorTextMuted": "#808080",
         "colorCounter": "#4EA8DE",
-        "colorBorderCover": "#d9d9d9"
+        "colorBorderCover": "#d9d9d9",
+        "colorBgOverly": "rgba(0,0,0,0.5)",
       },
       spacing: {
+        "400px": "400px",
         "638px": "638px",
         "800px": "800px",
         "100px": "100px",
