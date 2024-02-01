@@ -6,7 +6,8 @@ export default {
       inputRounded: "8px",
     },
     fontSize: {
-      70: "70px",
+      "70": "70px",
+      "30": "30px"
     },
     extend: {
       gridTemplateColumns: {
