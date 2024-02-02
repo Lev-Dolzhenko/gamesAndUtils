@@ -4,6 +4,7 @@ import Counter from "./gamesAndUtils/counter/Counter";
 import Modal from "./gamesAndUtils/modal/Modal";
 import TicTacToe from "./gamesAndUtils/tic tac toe/TicTacToe";
 import Quiz from "./gamesAndUtils/quiz/Quiz";
+import ListOfUsers from "./gamesAndUtils/listOfUsers/ListOfUsers";
 
 import "./App.css";
 function App() {
@@ -15,7 +16,8 @@ function App() {
       {/* <TodoList /> */}
       {/* <Modal /> */}
       {/* <TicTacToe /> */}
-      <Quiz />
+      {/* <Quiz /> */}
+      <ListOfUsers />
     </>
   );
 }
